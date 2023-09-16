@@ -18,4 +18,5 @@ This project is a counter implemented using HTML, CSS, and JavaScript.
 3. Use the buttons to increase, decrease, or reset the count.
 
 ##url
+https://anupam-singh88.github.io/count-down-timer-js-projects/
 
