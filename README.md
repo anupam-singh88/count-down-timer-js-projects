@@ -15,8 +15,7 @@ This project is a counter implemented using HTML, CSS, and JavaScript.
 ## How to Use
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your browser.
-3. Use the buttons to increase, decrease, or reset the count.
 
-##url
+## url
 https://anupam-singh88.github.io/count-down-timer-js-projects/
 
